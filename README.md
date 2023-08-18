@@ -1,4 +1,5 @@
-# Bomber_Man_cpp
+# Bomber_Man_cpp (made in 2018)
+
 To create Makefile :
     cmake . -G "Unix Makefiles"
 to create binary :
