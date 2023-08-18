@@ -1,0 +1,15 @@
+###############
+#..BBBBBBBBB..#
+#.#B#B#B#B#B#.#
+#BBBBBBBBBBBBB#
+#B#B#B#B#B#B#B#
+#BBBBBBBBBBBBB#
+#B#B#B#B#B#B#B#
+#BBBBBBBBBBBBB#
+#B#B#B#B#B#B#B#
+#BBBBBBBBBBBBB#
+#B#B#B#B#B#B#B#
+#BBBBBBBBBBBBB#
+#.#B#B#B#B#B#.#
+#..BBBBBBBBB..#
+###############
