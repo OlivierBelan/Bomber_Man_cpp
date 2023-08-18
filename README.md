@@ -1,6 +1,6 @@
 # Bomber_Man_cpp (made in 2018)
 
-To create Makefile (in Linux env):
+To create Makefile (in Linux env/can work on Windows):
 
     cmake . -G "Unix Makefiles"
 
