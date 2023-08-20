@@ -1,5 +1,5 @@
 # Bomber_Man_cpp (made in 2018)
-Bomberman game made in cpp
+## Bomberman game made in cpp
 
 To create Makefile (in Linux env/can work on Windows):
 
@@ -21,20 +21,20 @@ To clean directory :
 
     make fclean
 
-# Description
+## Description
 ![IMAGE_DESCRIPTION](img/description.png)
 
-# Menu
+## Menu
 ![IMAGE_DESCRIPTION](img/menu.png)
 
 ![IMAGE_DESCRIPTION](img/menu_2.png)
 
 ![IMAGE_DESCRIPTION](img/menu_3.png)
 
-# Animation
+## Animation
 ![IMAGE_DESCRIPTION](img/animation.png)
 
-# Map
+## Map
 ![IMAGE_DESCRIPTION](img/map.png)
 
 ![IMAGE_DESCRIPTION](img/map_2.png)
