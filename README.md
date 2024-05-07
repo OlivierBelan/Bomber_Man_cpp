@@ -1,5 +1,4 @@
 # Bomber_Man_cpp (made in 2018)
-## Bomberman game made in cpp
 
 To create Makefile (in Linux env/can work on Windows):
 
