@@ -1,4 +1,4 @@
-# Bomber_Man_cpp (made in 2018)
+# Bomber_Man_cpp
 
 To create Makefile (in Linux env/can work on Windows):
 
