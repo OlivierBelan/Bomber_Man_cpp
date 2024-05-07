@@ -1,6 +1,7 @@
 # Bomber_Man_cpp
 3D Bomber Man game
 
+## Setting up
 To create Makefile (in Linux env/can work on Windows):
 
     cmake . -G "Unix Makefiles"
