@@ -1,4 +1,5 @@
 # Bomber_Man_cpp
+A 3D bomber man game
 
 To create Makefile (in Linux env/can work on Windows):
 
